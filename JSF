@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" conten="This is a sucks website">
+    <meta name="author" content="WnnaBEEE">
+    <meta name="keywords" content="coba, html, codingan, akuselalusiapapapunyangterjadi">
+    <meta name="view" content="width=device-width, initial-scale=1.0">
+    <title>JUST FOR FUN</title>
+</head>
+
+<body style="background-color: gray;">
+    <h1>JUST FOR FUN</h1>
+    <p>tenang diantara 3 link ini tidak ada 18+ content</p>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+        <p style="color: rgb(255, 0, 0); background-color: blue;"><big>Jebakan 1</big></p>
+    </a>
+    <a href="https://www.youtube.com/watch?v=egYTYpleY0U" target="_blank">
+        <p style="color: pink; background-color: blue;"><big>Jebakan 2</big></p>
+    </a>
+    <a href="https://www.youtube.com/watch?v=fC7oUOUEEi4" target="_blank">
+        <p style="color: greenyellow; background-color: indigo;"><big>Jebakan 3</big></p>
+    </a>
+    <p>JUST A RNDOM VIDS</p>
+    <iframe width="480" height="300" src="https://www.youtube.com/embed/4Gt7g5isRlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="480" height="300" src="https://www.youtube.com/embed/0cYHla9VSQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <hr>
+    <hr>
+    <iframe src="https://open.spotify.com/embed/album/0aU0QN4TNYMGzKQqd7OMjp" width="960" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    <p>RAMDOM IMAGES</p>
+    <ul>
+        <a href="https://drive.google.com/file/d/1jcNtqEj2ktsRbu3wDyfcdgjux-rL6baN/view?usp=sharing">SMANDU</a>
+    </ul>
+    <a href="https://images.app.goo.gl/zope3FCUnmD81nMd8" target="_blank">CURSED</a>
+</body>
+
+
+
+</html>
